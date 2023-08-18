@@ -7,14 +7,17 @@
 div p:first-child{
 	color:white;
 	background-color:black;
-	padding:5px;
+	padding:10px;
 }
 div p:nth-child(2){
-	padding:5px;
+	padding:10px;
+}
+div p:nth-child(3){
+	padding:10px;
 }
 div p:last-child{
 	color:red;
-	padding:5px;
+	padding:10px;
 	
 }
 li{
